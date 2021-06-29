@@ -1,0 +1,2 @@
+test="HelloWorld"
+echo $test
